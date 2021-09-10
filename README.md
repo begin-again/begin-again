@@ -14,7 +14,7 @@ I work in a multiple respository Windows environment with git for windows and VS
   -  Gulp
   -  BASH (git hooks, aliases, gnu tools)
   -  Mocha / Sinon / Jasmine
-  -  yargs ( create lot of command-line tools )
+  -  yargs ( I create lot of command-line tools )
   -  git (intermediate user, trainer, bit of plumbing)
   -  SQL (oracle)
   -  TDD (when possible)
