@@ -13,7 +13,7 @@ I work in a multiple respository Windows environment with git for windows and VS
   -  Angular 11/12
   -  Gulp
   -  BASH (git hooks, aliases, gnu tools)
-  -  Mocha / Sinon
+  -  Mocha / Sinon / Jasmine
   -  yargs ( create lot of command-line tools )
   -  git (intermediate user, trainer, bit of plumbing)
   -  SQL (oracle)
