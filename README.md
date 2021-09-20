@@ -19,7 +19,7 @@ I work in a multiple respository Windows environment with git for windows and VS
   -  SQL (oracle)
   -  TDD (when possible)
   -  Documentation (lots)
-  -  GHE
+  -  GitHub Enterprise
 
 
 ### currently learning
@@ -35,7 +35,7 @@ I work in a multiple respository Windows environment with git for windows and VS
 
 ### cool stuff I've created
 
-Not available on GH.com
+_Not publically available_
 
 - auto-node picker (library, NodeJS)
   - finds an installed version of nodeJS suitable for a repository based on it's engines property. Requires NVM (windows or Linux).
