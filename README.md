@@ -8,9 +8,9 @@ I work in a multiple respository Windows environment with git for windows and VS
 
 ### stuff I work with
   
-  -  ColdFusion 💩 (2018, CFScript, coldbox, testbox)
+  -  ColdFusion (2018, CFScript, coldbox, testbox)
   -  NodeJS (streams, events, child process)
-  -  Angular 11/12
+  -  Angular JS & 11/12
   -  Gulp
   -  BASH (git hooks, aliases, gnu tools)
   -  Mocha / Sinon / Jasmine
