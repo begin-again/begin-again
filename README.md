@@ -25,8 +25,8 @@ Most of my commits are on the university GitHub Enterprise server without cloud 
      - Policy
   -  GitHub Enterprise
   -  Typescript
-    -  converting NodeJS CLI apps
-    -  Angular 7/11/12
+     -  converting NodeJS CLI apps
+     -  Angular 7/11/12
 
 
 ### currently learning
