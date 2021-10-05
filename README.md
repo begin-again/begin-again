@@ -2,35 +2,43 @@
 
 I'm a full stack developer with East Carolina University.
 
-Most of my commits are on the university Github Enterprise server without cloud support. :confounded: 
-
 I work in a multiple respository Windows environment with git for windows and VS-Code. Love NodeJS and the command-line.
+
+Most of my commits are on the university GitHub Enterprise server without cloud support. :confounded: 
 
 ### stuff I work with
   
-  -  ColdFusion (2018, CFScript, coldbox, testbox)
+  -  ColdFusion (2018, CFScript, coldbox, testbox, mockbox)
   -  NodeJS (streams, events, child process)
-  -  Angular JS & 11/12
+  -  Angular JS & 7/11/12
   -  Gulp
   -  BASH (git hooks, aliases, gnu tools)
-  -  Mocha / Sinon / Jasmine
+  -  Mocha / Sinon / Jasmine / Karma
+  -  TDD (when possible)  
   -  yargs ( I create lot of command-line tools )
   -  git (intermediate user, trainer, bit of plumbing)
   -  SQL (oracle)
-  -  TDD (when possible)
   -  Documentation (lots)
+     - JSDoc code comments
+     - Functional test scenarios
+     - User manuals
+     - Policy
   -  GitHub Enterprise
+  -  Typescript
+    -  converting NodeJS CLI apps
+    -  Angular 7/11/12
 
 
 ### currently learning
 
    - More about NodeJS
    - More about JavaScript
+   - GraphQL
 
 
 ### looking to collaborate on
 
-  - blockchain   
+  - blockchain (analytics)  
 
 
 ### cool stuff I've created
@@ -42,7 +50,7 @@ _Not publically available_
   - allows developers to be running multiple versions of NodeJS in multiple shells without having to be concerned about what a repository might support
   - I realize that there are open source tools that can do some of this but this does everything I need.
 - NodeJS Launchers (NodeJS)
-  - using the above picker, have created launchers for yarn, gulp, angular-cli. For instance, yarn by itself operates on current working directory, but with this tool can run any yarn command in any path `yn -p /some/where -c <command> -v <optional node version including just a major or major.minor> -o <optional flag to select oldest installed satisfying version> -- <params for yarn>` (yn is a shell alias)
+  - using the above picker, have created launchers for yarn, gulp, angular-cli. For instance, yarn by itself operates on current working directory, but with this tool one can run any yarn command in any path `yn -p /some/where -c <command> -v <optional node version including just a major or major.minor> -o <optional flag to select oldest installed satisfying version> -- <params for yarn>` (yn is a shell alias)
 - centralized builders (NodeJS)
   - we have lots repositories which used to have individual build scripts (gulp). Making changes required numerous pull requests. By centralizing the building code into a single repository (currently a mono-repo with several builders) I've reduced maintenance significantly.
 - release commits (TM 😄) (NodeJS)
