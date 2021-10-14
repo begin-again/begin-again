@@ -47,12 +47,13 @@ _Not publically available_
   - using the yarn 1.x audit function, download the package.json/yarn.lock for every deployable (denoted via repository tags) repository and run yarn audit dumping the result as json. Then procress these files to create issues in the impacted repositories. These issues contain a human readable component (of every dependency with a CVE) and a serialized compressed comment. Acting as a database, read these comments to detect changes between scanning runs so that tool knows to update, close, or create an issue.
 
 
-### like to work with
+### want to work with
 
 - Linux
 - Kubernetes
 - Cloud
 - NodeJS
+
 
 ### currently learning
 
