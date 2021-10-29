@@ -49,6 +49,7 @@ _Not publically available_
 
 ### want to work with
 
+- Nice people
 - Linux
 - Kubernetes
 - Cloud
