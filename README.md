@@ -60,7 +60,7 @@ _Not publically available_
 
 - More about NodeJS
 - More about JavaScript
-- GraphQL
+- studying for AWS dev cert (associate)
 
 
 ### looking to collaborate on
