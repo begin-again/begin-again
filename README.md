@@ -61,6 +61,7 @@ _Not publically available_
 - More about NodeJS
 - More about JavaScript
 - studying for AWS dev cert (associate)
+- VueJS
 
 
 ### looking to collaborate on
