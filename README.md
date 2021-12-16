@@ -7,6 +7,8 @@ I'm a full stack developer with expertise in NodeJS, Angular, Gulp, git, trainin
 
 #### Dorsett Controls
 
+2022 - Present
+
 - NodeJS
 - Vue
 - Mongo
@@ -15,6 +17,8 @@ I'm a full stack developer with expertise in NodeJS, Angular, Gulp, git, trainin
 <br><hr>
 
 #### East Carolina University
+
+2017 - 2021
 
 I worked in a multiple respository Windows environment with git for windows and VS-Code. Most of my commits are on the university GitHub Enterprise server without cloud support. :confounded:
   
