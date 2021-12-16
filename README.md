@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a full stack developer with expertise in NodeJS, Angular, Gulp, git, training, among other talents.
+I'm a full stack developer with expertise in NodeJS, Angular, Gulp, git, training, among other talents. Love NodeJS and the command-line.
 
 
 ### stuff I work(ed) with
@@ -10,13 +10,13 @@ I'm a full stack developer with expertise in NodeJS, Angular, Gulp, git, trainin
 - NodeJS
 - Vue
 - Mongo
-
+- SQL
 
 <br><hr>
 
 #### East Carolina University
 
-I worked in a multiple respository Windows environment with git for windows and VS-Code. Love NodeJS and the command-line. Most of my commits are on the university GitHub Enterprise server without cloud support. :confounded:
+I worked in a multiple respository Windows environment with git for windows and VS-Code. Most of my commits are on the university GitHub Enterprise server without cloud support. :confounded:
   
 -  ColdFusion (2018, CFScript, coldbox, testbox, mockbox)
 -  NodeJS (streams, events, child process)
@@ -37,7 +37,6 @@ I worked in a multiple respository Windows environment with git for windows and 
 -  Typescript
    -  converting NodeJS CLI apps
    -  Angular 7/11/12
- -  Oracle RDBMS
 
 
 #### cool stuff I created @ ECU
