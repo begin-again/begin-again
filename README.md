@@ -1,12 +1,22 @@
 ## Hi there 👋
 
-I'm a full stack developer with East Carolina University.
+I'm a full stack developer with expertise in NodeJS, Angular, Gulp, git, training, among other talents.
 
-I work in a multiple respository Windows environment with git for windows and VS-Code. Love NodeJS and the command-line.
 
-Most of my commits are on the university GitHub Enterprise server without cloud support. :confounded: 
+### stuff I work(ed) with
 
-### stuff I work with
+#### Doresett Controls
+
+- NodeJS
+- Vue
+- Mongo
+
+
+<br><hr>
+
+#### East Carolina University
+
+I worked in a multiple respository Windows environment with git for windows and VS-Code. Love NodeJS and the command-line. Most of my commits are on the university GitHub Enterprise server without cloud support. :confounded:
   
 -  ColdFusion (2018, CFScript, coldbox, testbox, mockbox)
 -  NodeJS (streams, events, child process)
@@ -27,9 +37,10 @@ Most of my commits are on the university GitHub Enterprise server without cloud 
 -  Typescript
    -  converting NodeJS CLI apps
    -  Angular 7/11/12
+ -  Oracle RDBMS
 
 
-### cool stuff I've created
+#### cool stuff I created @ ECU
 
 _Not publically available_
 
