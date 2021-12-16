@@ -5,7 +5,7 @@ I'm a full stack developer with expertise in NodeJS, Angular, Gulp, git, trainin
 
 ### stuff I work(ed) with
 
-#### Doresett Controls
+#### Dorsett Controls
 
 - NodeJS
 - Vue
