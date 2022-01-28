@@ -2,21 +2,44 @@
 
 I'm a full stack developer with expertise in NodeJS, Angular, Gulp, git, training, among other talents. Love NodeJS and the command-line. Prefer test driven design.
 
+### want to work with
 
-### stuff I work(ed) with
+- Nice people
+- Linux
+- Kubernetes
+- Cloud
+- NodeJS
 
-#### Dorsett Controls
+
+### currently learning
+
+Electron, VueJS, Webpack
+
+
+## stuff I work(ed) with
+
+### Dorsett Controls
 
 2022 - Present
 
-- NodeJS
+I work in a multiple respository Windows environment with git for windows and VS-Code. The product is installed on-prem with custom installers. My GH activity does appear on my profile but the company repositories are private.
+
+- Electron (currently upgrading to v16)
+- NodeJS (events, async, stream, child process)
+- Grunt
 - Vue
 - Mongo
 - SQL
+- BASH (git hooks, aliases, gnu tools)
+- git (intermediate user)
+-  Documentation (lots)
+   - JSDoc code comments
+   - Policy (style guide, coding standards)
+-  GitHub 
 
-<br><hr>
+<br><hr><br>
 
-#### East Carolina University
+### East Carolina University
 
 2017 - 2021
 
@@ -61,25 +84,11 @@ _Not publically available_
   - using the yarn 1.x audit function, download the package.json/yarn.lock for every deployable (denoted via repository tags) repository and run yarn audit dumping the result as json. Then procress these files to create issues in the impacted repositories. These issues contain a human readable component (of every dependency with a CVE) and a serialized compressed comment. Acting as a database, read these comments to detect changes between scanning runs so that tool knows to update, close, or create an issue.
 
 
-### want to work with
-
-- Nice people
-- Linux
-- Kubernetes
-- Cloud
-- NodeJS
-
-
-### currently learning
-
-- More about NodeJS
-- More about JavaScript
-- studying for AWS dev cert (associate)
-- VueJS
-
+<br><hr><br>
 
 ### looking to collaborate on
 
 - blockchain (analytics) 
+- electron (anything)
 
 
