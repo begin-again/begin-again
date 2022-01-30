@@ -30,7 +30,7 @@ I work in a multiple respository Windows environment with git for windows and VS
 - Vue
 - Mongo
 - SQL
-- BASH (git hooks, aliases, gnu tools)
+- BASH (aliases, gnu tools)
 - git (intermediate user)
 -  Documentation (lots)
    - JSDoc code comments
