@@ -27,9 +27,10 @@ I work in a multiple respository Windows environment with git for windows and VS
 - Electron (currently upgrading to v16)
 - NodeJS (events, async, stream, child process)
 - Grunt
-- Vue
+- Vue 2/3
 - Mongo
 - SQL
+- Sequelize
 - BASH (aliases, gnu tools)
 - git (intermediate user)
 -  Documentation (lots)
