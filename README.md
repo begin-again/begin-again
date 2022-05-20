@@ -24,7 +24,8 @@ Electron, VueJS, Webpack
 
 I work in a multiple respository Windows environment with git for windows and VS-Code. The product is installed on-prem with custom installers. My GH activity does appear on my profile but the company repositories are private.
 
-- Electron (currently upgrading to v16)
+- Electron
+- Express
 - NodeJS (events, async, stream, child process)
 - Grunt
 - Vue 2/3
@@ -32,6 +33,7 @@ I work in a multiple respository Windows environment with git for windows and VS
 - SQL
 - Sequelize
 - BASH (aliases, gnu tools)
+- PowerShell
 - git (intermediate user)
 -  Documentation (lots)
    - JSDoc code comments (on path to typescrypt)
