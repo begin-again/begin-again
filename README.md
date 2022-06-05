@@ -73,12 +73,6 @@ I worked in a multiple respository Windows environment with git for windows and 
 
 _Not publically available_
 
-- auto-node picker (library, NodeJS)
-  - finds an installed version of nodeJS suitable for a repository based on it's engines property. Requires NVM (windows or Linux).
-  - allows developers to be running multiple versions of NodeJS in multiple shells without having to be concerned about what a repository might support
-  - I realize that there are open source tools that can do some of this but this does everything I need.
-- NodeJS Spawner (NodeJS)
-  - using the above picker, have created generic spawner which works on NodeJS scripts, commands, REPL, angular-cli. For instance, yarn by itself operates on current working directory, but with this tool one can run any yarn command in any path `sp -n yarn -p /some/where -c <command> -v <optional node version including just a major or major.minor> -o <optional flag to select oldest installed satisfying version> -- <params for yarn>` (sp is a shell alias)
 - centralized builders (NodeJS)
   - we have lots repositories which used to have individual build scripts (gulp). Making changes required numerous pull requests. By centralizing the building code into a single repository (currently a mono-repo with several builders) I've reduced maintenance significantly.
 - release commits (TM 😄) (NodeJS)
