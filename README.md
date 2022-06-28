@@ -11,11 +11,6 @@ I'm a full stack developer with expertise in NodeJS, Angular, Gulp, git, trainin
 - NodeJS
 
 
-### currently learning
-
-Electron, VueJS, Webpack
-
-
 ## stuff I work(ed) with
 
 ### Dorsett Controls
@@ -29,12 +24,17 @@ I work in a multiple respository Windows environment with git for windows and VS
     <tr><td>Electron</td><td>Express</td><td>NodeJS</td><td>Grunt </td><td>Vue</td></tr>
     <tr><td>git</td><td>Sequelize</td><td>JSDoc</td><td>Typescript</td><td>Knockout</td></tr>
     <tr><td>GitHub</td><td>MariaDB</td><td>MongoDB</td><td>ESlint</td><td>MS Server</td></tr>
-    <tr><td>Mocha</td><td>Sinon</td></tr>
+    <tr><td>Mocha</td><td>Sinon</td><td>PowerShell</td></tr>
    </tbody>
  </table>
 
+#### recent projects
 
-<br><hr><br>
+- Automation enhancements
+- Maria DB encryption automation
+- Electronjs: context isolation implementation
+- NIST security compliance improvements
+
 
 ### East Carolina University
 
@@ -42,27 +42,15 @@ I work in a multiple respository Windows environment with git for windows and VS
 
 I worked in a multiple respository Windows environment with git for windows and VS-Code. Most of my commits are on the university GitHub Enterprise server without cloud support. :confounded:
   
--  ColdFusion (2018, CFScript, coldbox, testbox, mockbox)
--  NodeJS (streams, events, child process)
--  Angular JS & 7/11/12
--  Gulp
--  BASH (git hooks, aliases, gnu tools)
--  Mocha / Sinon / Jasmine / Karma
--  Test Driven Design (when possible)  
--  yargs ( I create lot of command-line tools )
--  git (intermediate user, trainer, bit of plumbing)
--  SQL (oracle)
--  Documentation (lots)
-   - JSDoc code comments
-   - Functional test scenarios
-   - User manuals
-   - Policy
--  GitHub Enterprise
--  Typescript
-   -  converting NodeJS CLI apps
-   -  Angular 7/11/12
-
-
+  <table>
+ <tbody>
+    <tr><td>ColdFusion</td><td>NodeJS</td><td>Angular<br>(1,7+)</td><td>Gulp</td><td>BASH</td></tr>
+    <tr><td>Mocha</td><td>Sinon</td><td>Jasmine</td><td>Karma</td><td>yargs</td></tr>
+    <tr><td>GitHub</td><td>git</td><td>SQL</td><td>ESlint</td><td>MS Server</td></tr>
+    <tr><td>Typescript</td><td>policy</td></tr>
+   </tbody>
+ </table>
+ 
 #### cool stuff I created @ ECU
 
 _Not publically available_
