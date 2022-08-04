@@ -31,7 +31,6 @@ I work in a multiple respository Windows environment with git for windows and VS
 #### recent projects
 
 - Automation enhancements
-- Maria DB encryption automation
 - Electronjs: context isolation implementation
 - NIST security compliance improvements
 
