@@ -71,4 +71,4 @@ _Not publically available_
 
 <hr>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bcnnv5e2tuh6whjl37ll3pl6ze&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bcnnv5e2tuh6whjl37ll3pl6ze&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31bcnnv5e2tuh6whjl37ll3pl6ze&redirect=true)
