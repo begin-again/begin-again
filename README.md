@@ -21,9 +21,9 @@ I work in a multiple respository Windows environment with git for windows and VS
 
 <table>
  <tbody>
-    <tr><td>Electron</td><td>Express</td><td>NodeJS</td><td>Grunt </td><td>Vue</td></tr>
+    <tr><td>Electron</td><td>Express</td><td>NodeJS</td><td>Grunt</td><td>Vue</td></tr>
     <tr><td>git</td><td>Sequelize</td><td>JSDoc</td><td>Typescript</td><td>Knockout</td></tr>
-    <tr><td>GitHub</td><td>MariaDB</td><td>MongoDB</td><td>ESlint</td><td>MS Server</td></tr>
+    <tr><td>GitHub</td><td>MariaDB</td><td>MongoDB</td><td>ESlint</td><td>Docker</td></tr>
     <tr><td>Mocha</td><td>Sinon</td><td>PowerShell</td></tr>
    </tbody>
  </table>
