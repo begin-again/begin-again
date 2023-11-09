@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a full stack developer with expertise in NodeJS, Angular, Gulp, git, training, among other talents. Love NodeJS and the command-line. Prefer test driven design.
+I'm a full stack developer with expertise in NodeJS, Vue, Gulp, git, training, among other talents. Love NodeJS and the command-line. Prefer test driven design.
 
 ### want to work with
 
@@ -33,6 +33,7 @@ I work in a multiple respository Windows environment with git for windows and VS
 - Automation enhancements
 - Electronjs: context isolation implementation
 - NIST security compliance improvements
+- Product Update
 
 
 ### East Carolina University
