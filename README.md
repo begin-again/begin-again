@@ -6,9 +6,8 @@ I'm a full stack developer with expertise in NodeJS, Vue, Gulp, git, training, a
 
 - Nice people
 - Linux
-- Kubernetes
-- Cloud
 - NodeJS
+- Vue3
 
 
 ## stuff I work(ed) with
@@ -31,9 +30,8 @@ I work in a multiple respository Windows environment with git for windows and VS
 #### recent projects
 
 - Automation enhancements
-- Electronjs: context isolation implementation
+- Product Delivery
 - NIST security compliance improvements
-- Product Update
 
 
 ### East Carolina University
