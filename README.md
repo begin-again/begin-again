@@ -5,7 +5,6 @@ I'm a full stack developer with expertise in NodeJS, Vue, Gulp, git, training, a
 ### want to work with
 
 - Nice people
-- Linux
 - NodeJS
 - Vue3
 
