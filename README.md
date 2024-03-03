@@ -27,11 +27,18 @@ I work in a multiple respository Windows environment with git for windows and VS
    </tbody>
  </table>
 
-#### recent projects
+#### projects
 
-- Automation enhancements
-- Product Delivery
-- NIST security compliance improvements
+- Dependency management (PowerShell, Git, NodeJS, Express)
+- Deployment	& installation	automation	(Power Shell, Git, NodeJS, Express)
+- Code	reviews, JSDoc, style guide, static analysis (GitHub, ESLint, SonarLint )
+-	Unit	testing (Mocha, Sinon)
+-	Developer	Documentation Wiki (GitHub, Markdown)
+
+
+
+
+p { line-height: 115%; text-align: left; orphans: 0; widows: 0; margin-bottom: 0.1in; direction: ltr; background: transparent }a:link { color: #000080; text-decoration: underline }
 
 
 ### East Carolina University
