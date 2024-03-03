@@ -36,11 +36,6 @@ I work in a multiple respository Windows environment with git for windows and VS
 -	Developer	Documentation Wiki (GitHub, Markdown)
 
 
-
-
-p { line-height: 115%; text-align: left; orphans: 0; widows: 0; margin-bottom: 0.1in; direction: ltr; background: transparent }a:link { color: #000080; text-decoration: underline }
-
-
 ### East Carolina University
 
 2017 - 2021
