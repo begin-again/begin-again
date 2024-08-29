@@ -28,6 +28,7 @@ I work in a multiple respository Windows environment with git for windows and VS
 
 #### projects
 
+- Analytics with ML modeling
 - Dependency management (PowerShell, Git, NodeJS, Express)
 - Deployment	& installation	automation	(Power Shell, Git, NodeJS, Express)
 - Code	reviews, JSDoc, style guide, static analysis (GitHub, ESLint, SonarLint )
