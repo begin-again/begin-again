@@ -28,11 +28,12 @@ I work in a multiple respository Windows environment with git for windows and VS
 
 #### projects
 
-- Analytics with ML modeling
+- A cli to Electon conversion (Electron, Vue, Vite, Nodejs, TypeScript)
+- Analytics with ML modeling (Nodejs, Python, Tensorflow, Express)
 - Dependency management (PowerShell, Git, NodeJS, Express)
 - Deployment	& installation	automation	(Power Shell, Git, NodeJS, Express)
 - Code	reviews, JSDoc, style guide, static analysis (GitHub, ESLint, SonarLint )
--	Unit	testing (Mocha, Sinon)
+-	Unit	testing (Mocha, Sinon, Vitest)
 -	Developer	Documentation Wiki (GitHub, Markdown)
 
 
