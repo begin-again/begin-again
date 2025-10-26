@@ -1,65 +1,124 @@
-## Hi there 👋
+## 👋 Hi there — I’m Todd
 
-I'm a full stack developer with expertise in NodeJS, Vue, Gulp, git, training, among other talents. Love NodeJS and the command-line. Prefer test driven design.
+I’m a **full-stack developer** who loves the command line, clean code, and making complex systems simpler.  
+I thrive at the intersection of **data engineering**, **analytics**, and **modern JavaScript frameworks**, with a focus on test-driven, maintainable design.  
 
-### want to work with
+I believe in tools that work *with* developers — not against them.
 
-- Nice people
-- NodeJS
-- Vue3
+---
 
+### ⚙️ What I Like Working With
+- ✅ **Nice people** solving meaningful problems  
+- 🟢 **Node.js** and everything around it  
+- 💚 **Vue 3** for expressive front-end experiences  
+- 🧪 **Test-driven design** for predictable results  
 
-## stuff I work(ed) with
+---
 
-### Dorsett Controls
+## 💼 Experience
 
-2022 - Present
+### **Dorsett Controls**  
+**Full-Stack Developer (2022 – Present)**  
+*On-prem analytics and automation platform*
 
-I work in a multiple respository Windows environment with git for windows and VS-Code. The product is installed on-prem with custom installers. My GH activity does appear on my profile but the company repositories are private.
+Working across a multi-repository Windows environment, combining Node.js, Express, and Electron with strong CI and test practices.  
+Responsible for development, deployment automation, and analytics modeling.
 
-<table>
- <tbody>
-    <tr><td>Electron</td><td>Express</td><td>NodeJS</td><td>Grunt</td><td>Vue</td></tr>
-    <tr><td>git</td><td>Sequelize</td><td>JSDoc</td><td>Typescript</td><td>Knockout</td></tr>
-    <tr><td>GitHub</td><td>MariaDB</td><td>MongoDB</td><td>ESlint</td><td>Mocha</td></tr>
-    <tr><td>Sinon</td><td>PowerShell</td><td>Python</td></tr>
-   </tbody>
- </table>
+**Tech stack:**  
+`Electron`  `Node.js`  `Express`  `Vue`  `TypeScript`  `Sequelize`  `MariaDB`  `MongoDB`  `PowerShell`  `Python`  `Mocha`  `Sinon`
 
-#### projects
+**Highlights**
+- 🖥️ **CLI → Electron migration** (Vue + Vite + TypeScript)  
+- 📊 **Analytics & ML modeling** (Node + Python + TensorFlow)  
+- 🔁 **Dependency & version management** (PowerShell + Git + Node)  
+- 🚀 **Deployment automation** (Node + Express + PowerShell)  
+- 🧭 **Static analysis, style guide, JSdoc, and Wiki docs**  
+- 🧪 **Unit testing** (Mocha + Sinon + Vitest)
 
-- A cli to Electon conversion (Electron, Vue, Vite, Nodejs, TypeScript)
-- Analytics with ML modeling (Nodejs, Python, Tensorflow, Express)
-- Dependency management (PowerShell, Git, NodeJS, Express)
-- Deployment	& installation	automation	(Power Shell, Git, NodeJS, Express)
-- Code	reviews, JSDoc, style guide, static analysis (GitHub, ESLint, SonarLint )
--	Unit	testing (Mocha, Sinon, Vitest)
--	Developer	Documentation Wiki (GitHub, Markdown)
+---
 
+### **East Carolina University**  
+**Application Developer (2017 – 2021)**  
+*Web development across multiple repositories on GitHub Enterprise*
 
-### East Carolina University
+Built and maintained applications in Node.js, Angular, and ColdFusion for university operations.  
 
-2017 - 2021
+**Tech stack:**  
+`Node.js`  `Angular (1.x & 7+)`  `ColdFusion`  `TypeScript`  `Gulp`  `Mocha`  `Sinon`  `SQL Server`  `ESLint`  `Karma`
 
-I worked in a multiple respository Windows environment with git for windows and VS-Code. Most of my commits are on the university GitHub Enterprise server without cloud support. :confounded:
-  
-  <table>
- <tbody>
-    <tr><td>ColdFusion</td><td>NodeJS</td><td>Angular<br>(1,7+)</td><td>Gulp</td><td>BASH</td></tr>
-    <tr><td>Mocha</td><td>Sinon</td><td>Jasmine</td><td>Karma</td><td>yargs</td></tr>
-    <tr><td>GitHub</td><td>git</td><td>SQL</td><td>ESlint</td><td>MS Server</td></tr>
-    <tr><td>Typescript</td><td>policy</td></tr>
-   </tbody>
- </table>
- 
-#### cool stuff I created @ ECU
+**Notable internal tools**
+- ⚙️ **Centralized Builders (Node.js)** – unified build pipelines across repositories  
+- 🚢 **Release Commit Deployments** – made functional testing & deployment nearly instant  
+- 🔍 **Yarn Audit Scanner (Node.js + GH REST API)** – automated CVE detection & reporting  
 
-_Not publically available_
+> *Most commits are hosted on a private university GitHub Enterprise instance.*
 
-- centralized builders (NodeJS)
-  - we have lots repositories which used to have individual build scripts (gulp). Making changes required numerous pull requests. By centralizing the building code into a single repository (currently a mono-repo with several builders) I've reduced maintenance significantly.
-- release commits (TM 😄) (NodeJS)
-  - with so many repositories, deployments used to involved running a build for each and then zipping up the result to be passed on to a deployment system. Even when running in parallel and an offline package mirror this took a long time. My solution was to build the repository targeting a folder in the repository itself. I then built tools for developers to create a release commit and another to copy a release commit into a web root or where ever. Deployments are super fast now. And PR reviewers no longer need to build a repository for functional review.
-- yarn audit scanner (NodeJS, GH Rest API)
-  - using the yarn 1.x audit function, download the package.json/yarn.lock for every deployable (denoted via repository tags) repository and run yarn audit dumping the result as json. Then procress these files to create issues in the impacted repositories. These issues contain a human readable component (of every dependency with a CVE) and a serialized compressed comment. Acting as a database, read these comments to detect changes between scanning runs so that tool knows to update, close, or create an issue.
+---
 
+### **Stanley Healthcare**, Boston MA  
+**Business Intelligence Developer (2015 – 2016)**  
+*Customer-facing BI products for real-time hospital asset tracking*
+
+Developed analytics and reporting components supporting **MobileView**, Stanley’s RTLS platform.
+
+**Core responsibilities**
+- Designed performant SQL against data-warehouse schema  
+- Prototyped Tableau dashboards and custom analytics views  
+- Collaborated with UX and technical writers on deployment & documentation  
+- Supported customer sites (Tableau Server, SQL Server, MobileView configuration)
+
+**Key achievements**
+- Simplified **Excel-based database sizing tool** for accurate sales quoting  
+- Built **troubleshooting dashboards** for product support teams  
+- Created new BI products for **Hand Hygiene**, **Environmental Monitoring**, and **Staff Rounding**
+
+---
+
+### **Amazon**, Charleston SC  
+**Data Engineer (2012 – 2015)**  
+*Manufacturing operations reporting and visualization*
+
+Built and maintained reporting infrastructure to visualize operational metrics across manufacturing systems.  
+
+**Core responsibilities**
+- Requirements, data discovery, and specification authoring  
+- Full-stack development and deployment on AWS (EC2)  
+- Ongoing maintenance and performance tuning  
+
+**Key achievements**
+- Automated key production and planning metrics  
+- Created a **task-scheduling system** running across EC2 instances (Ruby)  
+- Built a **clustered web app** using Sinatra + Thin behind AWS load balancers  
+
+---
+
+## 🧰 Tools & Technologies I Enjoy
+`Node.js`  `Vue 3`  `Electron`  `TypeScript`  `Express`  `Sequelize`  `MariaDB`  `MongoDB`  
+`Python`  `TensorFlow`  `PowerShell`  `Mocha`  `Sinon`  `Vitest`  `GitHub Actions`  `CI/CD`
+
+---
+
+## 🌱 Currently Exploring
+- Building cross-platform desktop apps with **Electron + Vite**  
+- Streamlining **Node ↔ Python** analytics pipelines  
+- Smarter **task scheduling and automation** frameworks  
+
+---
+
+## 💬 Fun Fact
+I’m happiest when something passes a test suite *and* looks good in a terminal window. 😄
+
+---
+
+## 📫 Let’s Connect
+<p>
+<a href="#">💼 LinkedIn</a>  •  <a href="#">🌍 Portfolio / Website</a>  •  <a href="#">🐙 GitHub Projects</a>
+</p>
+
+---
+
+### ⭐ Pinned Project Ideas
+Even if production code is private, consider public analogs:
+- `electron-demo-installer` – sample CLI → GUI conversion  
+- `forecasting-sample` – sanitized Node/Python ML integration  
+- `automation-tools` – simple PowerShell + Node scripts
