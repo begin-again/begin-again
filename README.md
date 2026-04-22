@@ -35,6 +35,8 @@ Responsible for development, deployment automation, and analytics modeling.
 - 🧭 **Static analysis, style guide, JSdoc, and Wiki docs**
 - 🧪 **Unit testing** (Mocha + Sinon + Vitest)
 
+
+> *All commits are on private GitHub repositories.*
 ---
 
 ### **East Carolina University**
