@@ -25,7 +25,7 @@ Working across a multi-repository Windows environment, combining Node.js, Expres
 Responsible for development, deployment automation, and analytics modeling.
 
 **Tech stack:**
-`Electron``Node.js``Express``Vue``TypeScript``Sequelize``MariaDB``MongoDB``PowerShell``Python``Mocha``Sinon`
+`Electron`, `Node.js`, `Express`, `Vue`, `TypeScript`, `Sequelize`, `MariaDB`, `MongoDB`, `PowerShell`, `Python`, `Mocha`, `Sinon`
 
 **Highlights**
 - 🖥️ **CLI → Electron migration** (Vue + Vite + TypeScript)
@@ -44,7 +44,7 @@ Responsible for development, deployment automation, and analytics modeling.
 Built and maintained applications in Node.js, Angular, and ColdFusion for university operations.
 
 **Tech stack:**
-`Node.js``Angular (1.x & 7+)``ColdFusion``TypeScript``Gulp``Mocha``Sinon``SQL Server``ESLint``Karma`
+`Node.js`, `Angular (1.x & 7+)`, `ColdFusion`, `TypeScript`, `Gulp`, `Mocha`, `Sinon`, `SQL Server`, `ESLint`, `Karma`
 
 **Notable internal tools**
 - ⚙️ **Centralized Builders (Node.js)** – unified build pipelines across repositories
