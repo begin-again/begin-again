@@ -93,8 +93,8 @@ Built and maintained reporting infrastructure to visualize operational metrics a
 ---
 
 ## 🧰 Tools & Technologies I Enjoy
-`Node.js``Vue 3``Electron``TypeScript``Express``Sequelize``MariaDB``MongoDB`
-`Python``TensorFlow``PowerShell``Mocha``Sinon``Vitest``GitHub Actions``CI/CD`
+`Node.js`, `Vue 3`, `Electron`, `TypeScript`, `Express`, `Sequelize`, `MariaDB`, `MongoDB`
+`Python`, `TensorFlow`, `PowerShell`, `Mocha`, `Sinon`, `Vitest`, `CI/CD`
 
 ---
 
