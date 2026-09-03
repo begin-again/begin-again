@@ -28,12 +28,12 @@ Responsible for development, deployment automation, and analytics modeling.
 `Electron`, `Node.js`, `Express`, `Vue`, `TypeScript`, `Sequelize`, `MariaDB`, `MongoDB`, `PowerShell`, `Python`, `Mocha`, `Sinon`
 
 **Highlights**
-- 🖥️ **CLI → Electron migration** (Vue + Vite + TypeScript)
+- 🖥️ **Electron Installer** (Vue3 + Vite + TypeScript)
 - 📊 **Analytics & ML modeling** (Node + Python + TensorFlow)
 - 🔁 **Dependency & version management** (PowerShell + Git + Node)
 - 🚀 **Deployment automation** (Node + Express + PowerShell)
 - 🧭 **Static analysis, style guide, JSdoc, and Wiki docs**
-- 🧪 **Unit testing** (Mocha + Sinon + Vitest)
+- 🧪 **Unit testing** (Mocha + Sinon + Vitest / node:test)
 
 
 > *All commits are on private GitHub repositories.*
